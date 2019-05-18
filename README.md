@@ -1,1 +1,1 @@
-# Route-Planner using A* algorithm
+# Route-Planner (using A* algorithm)
